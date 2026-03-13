@@ -34,7 +34,7 @@ Semua container berjalan dalam satu network Docker sehingga dapat saling berkomu
 ### 1. Clone repository
 
 ```
-git clone https://github.com/username/docker-wordpress.git
+git clone https://github.com/ROIFHAKIMF/Dockerize-WordPress.git
 cd docker-wordpress
 ```
 
